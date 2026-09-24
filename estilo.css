@@ -283,7 +283,16 @@ nav a:hover {
 /* CONTATO */
 
 .contato {
-    text-align: center;
+    .contato a {
+    color: #00aaff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contato a:hover {
+    color: #66ccff;
+    text-decoration: underline;
+
 }
 
 
