@@ -13,7 +13,6 @@ O portfólio foi desenvolvido utilizando tecnologias web, com o objetivo de prat
 - HTML5
 - CSS3
 - PHP
-- JavaScript
 - Git
 - GitHub
 
