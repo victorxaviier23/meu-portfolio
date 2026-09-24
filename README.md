@@ -26,5 +26,5 @@ Atualmente estou desenvolvendo meus conhecimentos em:
 - 🗄️ Banco de Dados
 - 🔧 Git e GitHub
 - 📊 Análise de Dados
-- 🌐 HTML, CSS e JavaScript
+- 🌐 HTML, CSS e Php
 
